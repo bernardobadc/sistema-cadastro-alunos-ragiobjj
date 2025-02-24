@@ -58,4 +58,10 @@ python main.py
 
 ## 📜 Licença
 
-Este projeto foi desenvolvido como um trabalho freelancer e sua utilização é restrita ao cliente Raggio Jiu Jitsu, porém é Open Source, sinta-se livre para fazer suas modificações e utilizá-lo, lembrando de não utilizar indevidamente nome ou imagens que pertencem a empresa e também lembrando de dar os créditos ao desenvolvedor.
+Este projeto foi desenvolvido como um trabalho freelancer para o cliente Raggio Jiu Jitsu. Embora o código seja Open Source e você esteja livre para fazer modificações e utilizá-lo, é importante respeitar as seguintes condições:
+
+Não utilize indevidamente o nome, logotipos ou imagens que são propriedade da empresa Raggio Jiu Jitsu.
+
+Atribua os créditos ao desenvolvedor ao utilizar ou modificar este projeto.
+
+Sinta-se à vontade para explorar e adaptar o código, mas lembre-se de respeitar os direitos autorais e as diretrizes mencionadas acima.

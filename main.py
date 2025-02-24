@@ -31,7 +31,6 @@ color_10 = "#099e0e"   # + verde
 global table
 
 # Funções de CRUD e Excel exceto a de mostrar/read, que está mais abaixo no código
-
 # Função do botão cadastrar
 def register_btn_function():
     name = name_entry.get()

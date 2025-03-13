@@ -43,13 +43,17 @@ Caso queira rodar o projeto localmente, siga os passos:
 Clone o repositório:
 
 git clone https://github.com/bernardobadc/sistema-cadastro-alunos-ragiobjj.git
+
 cd nome-do-repositorio
 
 ## Crie um ambiente virtual e instale as dependências:
 
 python -m venv venv
+
 source venv/bin/activate  # Linux/macOS
+
 venv\Scripts\activate     # Windows
+
 pip install -r requirements.txt
 
 ## Execute o sistema:
